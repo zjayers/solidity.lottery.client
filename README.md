@@ -1,8 +1,7 @@
 # Solidity Lottery Client
-[![GitHub Release](https://img.shields.io/github/release/zjayers/solidity.lottery.client.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/solidity.lottery.client.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/solidity.lottery.client.svg?style=flat)](https://github.com/zjayers/solidity.lottery.client/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/solidity.lottery.client.svg?style=flat)](https://github.com/zjayers/solidity.lottery.client/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/solidity.lottery.client.svg?maxAge=25000)](https://github.com/zjayers/solidity.lottery.client/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/solidity.lottery.client/blob/master/LICENSEs)
 
 ## Description
 
